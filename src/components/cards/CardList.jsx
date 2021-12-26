@@ -27,9 +27,6 @@ function CardList() {
         getCards()
     }, [])
 
-    console.log('filter cards', filterCards())
-    console.log(filterCards() != [])
-
     if(!loading){
         return (
             <>

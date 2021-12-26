@@ -1,4 +1,4 @@
-import { useState, useContext, useEffect } from "react"
+import { useContext } from "react"
 import MagicContext from "../../context/MagicContext"
 import white from '../assets/svg/white.png'
 import blue from '../assets/svg/blue.png'
