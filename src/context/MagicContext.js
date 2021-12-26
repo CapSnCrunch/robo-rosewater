@@ -1,8 +1,7 @@
 import { createContext, useReducer } from "react"
-import { collection, getDocs, query, where, orderBy, limit, startAfter } from 'firebase/firestore'
+import { collection, getDocs, query, orderBy} from 'firebase/firestore'
 import { db } from '../firebase.config'
 import magicReducer from './MagicReducer'
-import { data } from "autoprefixer"
 
 const MagicContext = createContext()
 
