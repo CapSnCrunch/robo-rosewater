@@ -8,7 +8,7 @@ function About() {
             <p className='mb-2 text-xl font-light'>
                 AI trained by <a href='https://twitter.com/CocoaMix86'><strong> @CocoaMix86</strong></a>,
                 Cards posted by <a href='https://twitter.com/roborosewaterm'><strong> @RoborosewaterM</strong></a>,
-                Website made by <a href=''><strong> @CapSnCrunch</strong></a>,
+                Website made by <strong> @CapSnCrunch</strong>,
                 Project inspired by <a href='https://twitter.com/RoboRosewater'><strong> @RoboRosewater</strong></a>
             </p>
             <p className="m-8 leading-loose text-xl font-light">
