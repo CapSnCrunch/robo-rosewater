@@ -4,7 +4,7 @@ function Footer() {
     return (
         <footer className="footer p-10 bg-zinc-100 text-primary-content footer-center">
             <div>
-                <p><strong>Robo Rosewater Masters</strong> {footerYear}</p>
+                <p><strong>MTG Neural Net</strong> {footerYear}</p>
             </div>
         </footer>
     )
